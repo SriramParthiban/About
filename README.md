@@ -4,10 +4,9 @@
   
 ### 🚀 Automation Engineer | 💡 Workflow Specialist | 🎯 No-Code/Low-Code Enthusiast
 
-[![GitHub followers](https://www.linkedin.com/in/sriram-parthiban-0500q/)](https://github.com/SriramPartiban)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub followers](https://img.shields.io/github/followers/SriramPartiban?style=social)](https://github.com/SriramPartiban)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-parthiban-0500q/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sriramparthiban1970@gmail.com)
 
 </div>
 
@@ -71,8 +70,6 @@ An intelligent chatbot built with n8n that handles HR-related queries, employee 
 - 🔄 Automated employee onboarding workflows
 - 📊 Integration with HR management systems
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/HR-Chatbot)
-
 ---
 
 ### 📄 [Invoice Extractor](https://github.com/SriramPartiban/Invoice-Extractor)
@@ -86,8 +83,6 @@ Intelligent workflow that extracts data from invoices using OCR and AI, then aut
 - 📸 Automatic invoice scanning and data extraction
 - 💾 Structured data storage and organization
 - 🔄 Integration with accounting systems
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Invoice-Extractor)
 
 ---
 
@@ -103,8 +98,6 @@ Advanced automation workflow that creates video clones with AI-generated voices,
 - 🎥 Automated video processing
 - 🔗 API integrations for media handling
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Video-Clone-in-N8N-Voice-Playpen)
-
 ---
 
 ### 🧮 [Calculator Workflow](https://github.com/SriramPartiban/Calculator)
@@ -118,8 +111,6 @@ A flexible n8n workflow that performs complex calculations and mathematical oper
 - ➕ Advanced mathematical operations
 - 🔄 Automated calculation triggers
 - 📤 Result distribution to multiple channels
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Calculator)
 
 ---
 
@@ -135,8 +126,6 @@ Automated search agent that helps users find FreeCAD tutorials, documentation, a
 - 📚 Resource aggregation
 - 🤖 AI-powered recommendations
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Freecad-Search-Agent)
-
 ---
 
 ### 📞 [GHL Call Workflow](https://github.com/SriramPartiban/Grk-Call)
@@ -150,8 +139,6 @@ Comprehensive call handling workflow integrated with GoHighLevel CRM for automat
 - 📱 Automated call routing and handling
 - 💼 CRM integration and data sync
 - 📊 Call analytics and reporting
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Grk-Call)
 
 ---
 
@@ -167,8 +154,6 @@ Automated scheduling system that manages appointments, sends reminders, and sync
 - ⏰ Automated reminders and notifications
 - 🔄 Conflict detection and resolution
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Schedule)
-
 ---
 
 ### 🎥 [Video Generator](https://github.com/SriramPartiban/Video-Generator)
@@ -182,8 +167,6 @@ Generate videos automatically from templates, scripts, or data inputs with this 
 - 🎬 Template-based video generation
 - 🤖 AI-powered content creation
 - 📤 Multi-platform distribution
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Video-Generator)
 
 ---
 
@@ -199,8 +182,6 @@ Intelligent workflow that analyzes resumes, extracts key information, and scores
 - 🎯 Skill matching and scoring
 - 📊 Candidate ranking and reporting
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Ado-resume-analyzer)
-
 ---
 
 ### 📞 [Telegram Voice Assistant](https://github.com/SriramPartiban/Assistant-with-Telegram-Voice-and-Text-option)
@@ -214,8 +195,6 @@ Advanced Telegram bot that handles both voice messages and text commands using A
 - 🎙️ Voice message processing
 - 💬 Text command handling
 - 🤖 AI-powered responses
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Assistant-with-Telegram-Voice-and-Text-option)
 
 ---
 
@@ -231,8 +210,6 @@ Smart email assistant that categorizes, responds to, and manages emails automati
 - 🤖 AI-generated responses
 - 📊 Email analytics and insights
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Email-Agent)
-
 ---
 
 ### 🌐 [Website Scraping Automation](https://github.com/SriramPartiban/Scraping-of-website-and-Storing-in-Pinecone)
@@ -247,8 +224,6 @@ Automated web scraping workflow that collects data and stores it in Pinecone vec
 - 💾 Vector database storage
 - 🔍 Semantic search capabilities
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Scraping-of-website-and-Storing-in-Pinecone)
-
 ---
 
 ## 🎨 Other Projects
@@ -260,9 +235,6 @@ A modern, responsive portfolio website built with latest web technologies to sho
 
 **Tech Stack:** `React` `Next.js` `TailwindCSS` `Framer Motion`
 
-[![Live Demo](https://img.shields.io/badge/-Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Portfolio)
-
 ---
 
 ### 🌐 [Website with Voice Agent](https://github.com/SriramPartiban/Website-with-the-voice-and-agent)
@@ -271,8 +243,6 @@ A modern, responsive portfolio website built with latest web technologies to sho
 Modern website featuring an AI voice agent for enhanced user interaction and accessibility.
 
 **Tech Stack:** `React` `Speech Recognition` `AI` `Web APIs`
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Website-with-the-voice-and-agent)
 
 ---
 
@@ -283,8 +253,6 @@ Complete e-commerce solution with shopping cart, payment integration, and order 
 
 **Tech Stack:** `React` `Node.js` `MongoDB` `Stripe`
 
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Ecommerce-Demo-Website)
-
 ---
 
 ### 💰 [Sales Development SDK](https://github.com/SriramPartiban/Sales-Development-Representitive-SDK)
@@ -293,22 +261,6 @@ Complete e-commerce solution with shopping cart, payment integration, and order 
 Comprehensive SDK for building sales automation tools and integrating with popular CRM platforms.
 
 **Tech Stack:** `JavaScript` `APIs` `CRM Integrations`
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramPartiban/Sales-Development-Representitive-SDK)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriramPartiban&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriramPartiban&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriramPartiban&theme=radical&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
@@ -329,10 +281,8 @@ I'm always open to discussing automation projects, AI integration, and collabora
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-parthiban-0500q/)
+[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramparthiban1970@gmail.com)
 
 </div>
 
