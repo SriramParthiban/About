@@ -18,7 +18,7 @@
 
 - 🔭 Currently working on **Personalized Web Portfolio**
 - 🌱 Specializing in **n8n, Zapier, Twilio, Retell AI & GoHighLevel**
-- 💡 Passionate about **Workflow Automation, AI Integration & Business Process Optimization.**
+- 💡 Passionate about **Workflow Automation, AI Integration & Business Process Optimization**
 - 📍 Based in **Tambaram, Tamil Nadu, India**
 - ⚡ Fun fact: **I automate everything - from sales processes to voice agents!**
 
