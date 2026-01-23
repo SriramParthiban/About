@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-> Building intelligent automation workflows and creating seamless integrations that transform businesse.
+> Building intelligent automation workflows and creating seamless integrations that transform businesses.
 
 - 🔭 Currently working on **Personalized Web Portfolio**
 - 🌱 Specializing in **n8n, Zapier, Twilio, Retell AI & GoHighLevel**
