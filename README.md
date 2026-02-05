@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Automation Engineer | 💡 Workflow Specialist | 🎯 No-Code/Low-Code Enthusiasts
+### 🚀 Automation Engineer | 💡 Workflow Specialist | 🎯 No-Code/Low-Code Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/SriramPartiban?style=social)](https://github.com/SriramPartiban)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-parthiban-0500q/)
